@@ -10,4 +10,4 @@ Nesta atividade, vamos criar uma página que carrega fotos aleatórias de gatinh
 2. Utilize seus conhecimentos na manipulação do DOM para criar a imagem e ativar o evento de clique do botão!
 
 ## Demo 
-[catAPI](https://gisellebarbosa.github.io/Cat-API/)
+# [catAPI](https://gisellebarbosa.github.io/Cat-API/)
